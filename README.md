@@ -1,7 +1,7 @@
 <H1 ALIGN =CENTER>Implement Depth First Search Traversal of a Graph</H1>
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
-<H3>EX. NO.1</H3>
+<H3>EX. NO.2</H3>
 <H3>DATE:</H3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
